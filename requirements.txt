@@ -1,0 +1,7 @@
+tensorflow-gpu==2.3.0
+urllib3
+numpy
+keras
+matplotlib
+streamlit
+pandas
